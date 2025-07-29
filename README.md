@@ -1,2 +1,1 @@
-# proj_transcricao
-projeto de download de audio e transcricao
+# Projeto para coletar os dados do prohort
